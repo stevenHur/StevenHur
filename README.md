@@ -8,7 +8,7 @@
   - Major in Web Programming
     
 ### 💻 Career
-- [Naver Cloud](https://www.ncloud.com/) Contents Service Platform Planning Intern 2023.03 ~
+- [NaverCloud](https://www.ncloud.com/) Contents Service Platform Planning Intern 2023.03 ~
 - [AIFORPET](https://www.aiforpet.com/) Data Scientist Intern 2021.05 ~ 2022.02
  
 ### 📝 Project
